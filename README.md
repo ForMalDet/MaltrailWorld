@@ -1,6 +1,6 @@
 # MaltrailWorld
 
-The best of [Mailtrail](https://github.com/stamparm/maltrail) and [MalwareWrold](https://github.com/carlospolop/MalwareWorld) finally together
+The best of [Mailtrail](https://github.com/stamparm/maltrail) and [MalwareWorld](https://github.com/carlospolop/MalwareWorld) finally together
 
 
 ## Comming soon...
