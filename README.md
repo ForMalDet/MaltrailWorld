@@ -6,7 +6,7 @@ With this tool you can easly discover suspicious activities in your network usin
 
 ## MaltrailWorld-VPN
 
-You can have privacy + malware detection using MaltrailWorld-VPN. 
+You can have **privacy + malware** detection using MaltrailWorld-VPN. 
 
 This is a very easily deployable **VPN** powered by OpenVPN whose traffic will be analyzed by **MaltrailWorld**. Then, you will win the **privacy** given by a VPN and the **security** given by MaltrailWorld, **AND IT'S ALL OPENSOURCE!**
 
