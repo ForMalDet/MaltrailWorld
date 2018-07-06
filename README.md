@@ -34,4 +34,9 @@ This projects looks for hosts that:
 [Mailtrail](https://github.com/stamparm/maltrail) is a malicious traffic detection system, utilizing publicly available (black)lists containing malicious and/or generally suspicious trails, along with static trails compiled from various AV reports and custom user defined lists, where trail can be anything from domain name (e.g. zvpprsensinaix.com for Banjori malware), URL (e.g. http://109.162.38.120/harsh02.exe for known malicious executable), IP address (e.g. 185.130.5.231 for known attacker) or HTTP User-Agent header value (e.g. sqlmap for automatic SQL injection and database takeover tool). Also, it uses (optional) advanced heuristic mechanisms that can help in discovery of unknown threats (e.g. new malware).
 ![](https://camo.githubusercontent.com/0038e0fd9c97e8a8552dac8c048e3efdce49afbe/68747470733a2f2f692e696d6775722e636f6d2f53643965716f612e706e67)
 
+## Maltrail changes
+
+By default Maltrail is configured to use HTTPS and the pem file is expected to be located in `/home/maltrailworld/maltrailworld/misc/server.pem` (this can be changed in the file maltrail.conf)
+
+The password has been changed. Use `admin:%MalwareWorld%` to login
 
